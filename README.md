@@ -38,17 +38,27 @@ speedMps (original)
 headingDegreeNorthClockwice(original)
 
 latMatched: The coordinated is guaranteed to fit onto map road network, where the map shape points are connected by straight lines.
+
 lonMatched: The coordinated is guaranteed to fit onto map road network, where the map shape points are connected by straight lines.
+
 linkIdMatched: +-
+
 routeSeqNrMatched: count matched links 0,1,2,3..
+
 timestamp
+
 matchDist: distance between the original trace point and the matched coordinate (meter)
+
 headingMatched:
+
 minError
+
 confienceValue: confidence for this point match
 
+matchOffsetOnLink
 
 
+# Fleet Telematics Advanced Data Sets (PDE)
 
 
 
